@@ -88,7 +88,8 @@ endmodule
 
 
 **Output Timing Waveform**
-**Full_adder**
+
+**Full_adder**S
 ![Screenshot 2024-03-22 142809](https://github.com/NithishR15/FULL_ADDER_SUBTRACTOR/assets/144870685/2609c497-11c4-4dc1-ac24-c7cac9b5f195)
 
 **Full_subtracter**
