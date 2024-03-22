@@ -80,16 +80,18 @@ endmodule
 **RTL Schematic**
 
 **Full_adder**
+
 ![Screenshot 2024-03-22 142654](https://github.com/NithishR15/FULL_ADDER_SUBTRACTOR/assets/144870685/531c0576-f164-4696-a508-4e0eba85bf1b)
 
 **Full_subtracter**
+
 ![Screenshot 2024-03-22 142728](https://github.com/NithishR15/FULL_ADDER_SUBTRACTOR/assets/144870685/3f4a33bc-5ff8-4fcf-b158-f638f05f7ba1)
 
 
 
 **Output Timing Waveform**
 
-**Full_adder**S
+**Full_adders**
 ![Screenshot 2024-03-22 142809](https://github.com/NithishR15/FULL_ADDER_SUBTRACTOR/assets/144870685/2609c497-11c4-4dc1-ac24-c7cac9b5f195)
 
 **Full_subtracter**
